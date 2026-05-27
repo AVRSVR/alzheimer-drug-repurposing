@@ -1,0 +1,162 @@
+Sample_ID,Title,Source,Condition
+GSM119615,EC control 1,"brain, Entorhinal Cortex",Normal
+GSM119616,EC control 2,"brain, Entorhinal Cortex",Normal
+GSM119617,EC control 3,"brain, Entorhinal Cortex",Normal
+GSM119618,EC control 4,"brain, Entorhinal Cortex",Normal
+GSM119619,EC control 5,"brain, Entorhinal Cortex",Normal
+GSM119620,EC control 6,"brain, Entorhinal Cortex",Normal
+GSM119621,EC control 7,"brain, Entorhinal Cortex",Normal
+GSM119622,EC control 8,"brain, Entorhinal Cortex",Normal
+GSM119623,EC control 9,"brain, Entorhinal Cortex",Normal
+GSM119624,EC control 10,"brain, Entorhinal Cortex",Normal
+GSM119625,EC control 11,"brain, Entorhinal Cortex",Normal
+GSM119626,EC control 12,"brain, Entorhinal Cortex",Normal
+GSM119627,EC control 13,"brain, Entorhinal Cortex",Normal
+GSM119628,HIP control 1,"brain, hippocampus",Normal
+GSM119629,HIP control 2,"brain, hippocampus",Normal
+GSM119630,HIP control 3,"brain, hippocampus",Normal
+GSM119631,HIP control 4,"brain, hippocampus",Normal
+GSM119632,HIP control 5,"brain, hippocampus",Normal
+GSM119633,HIP control 6,"brain, hippocampus",Normal
+GSM119634,HIP control 7,"brain, hippocampus",Normal
+GSM119635,HIP control 8,"brain, hippocampus",Normal
+GSM119636,HIP control 9,"brain, hippocampus",Normal
+GSM119637,HIP control 10,"brain, hippocampus",Normal
+GSM119638,HIP control 11,"brain, hippocampus",Normal
+GSM119639,HIP control 12,"brain, hippocampus",Normal
+GSM119640,HIP control 13,"brain, hippocampus",Normal
+GSM119641,MTG control 1,"brain, Medial Temporal Gyrus",Normal
+GSM119642,MTG control 2,"brain, Medial Temporal Gyrus",Normal
+GSM119643,MTG control 3,"brain, Medial Temporal Gyrus",Normal
+GSM119644,MTG control 4,"brain, Medial Temporal Gyrus",Normal
+GSM119645,MTG control 5,"brain, Medial Temporal Gyrus",Normal
+GSM119646,MTG control 6,"brain, Medial Temporal Gyrus",Normal
+GSM119647,MTG control 7,"brain, Medial Temporal Gyrus",Normal
+GSM119648,MTG control 8,"brain, Medial Temporal Gyrus",Normal
+GSM119649,MTG control 9,"brain, Medial Temporal Gyrus",Normal
+GSM119650,MTG control 10,"brain, Medial Temporal Gyrus",Normal
+GSM119651,MTG control 11,"brain, Medial Temporal Gyrus",Normal
+GSM119652,MTG control 12,"brain, Medial Temporal Gyrus",Normal
+GSM119653,PC control 1,"brain, Posterior Cingulate",Normal
+GSM119654,PC control 2,"brain, Posterior Cingulate",Normal
+GSM119655,PC control 3,"brain, Posterior Cingulate",Normal
+GSM119656,PC control 4,"brain, Posterior Cingulate",Normal
+GSM119657,PC control 5,"brain, Posterior Cingulate",Normal
+GSM119658,PC control 6,"brain, Posterior Cingulate",Normal
+GSM119659,PC control 7,"brain, Posterior cingulate",Normal
+GSM119660,PC control 8,"brain, Posterior cingulate",Normal
+GSM119661,PC control 9,"brain, Posterior cingulate",Normal
+GSM119662,PC control 10,"brain, Posterior cingulate",Normal
+GSM119663,PC control 11,"brain, Posterior cingulate",Normal
+GSM119664,PC control 12,"brain, Posterior cingulate",Normal
+GSM119665,PC control 13,"brain, Posterior cingulate",Normal
+GSM119666,SFG control 1,"brain, Superior Frontal Gyrus",Normal
+GSM119667,SFG control 2,"brain, Superior Frontal Gyrus",Normal
+GSM119668,SFG control 3,"brain, Superior Frontal Gyrus",Normal
+GSM119669,SFG control 4,"brain, Superior Frontal Gyrus",Normal
+GSM119670,SFG control 5,"brain, Superior Frontal Gyrus",Normal
+GSM119671,SFG control 6,"brain, Superior Frontal Gyrus",Normal
+GSM119672,SFG control 7,"brain, Superior Frontal Gyrus",Normal
+GSM119673,SFG control 8,"brain, Superior Frontal Gyrus",Normal
+GSM119674,SFG control 9,"brain, Superior Frontal Gyrus",Normal
+GSM119675,SFG control 10,"brain, Superior Frontal Gyrus",Normal
+GSM119676,SFG control 11,"brain, Superior Frontal Gyrus",Normal
+GSM119677,VCX control 1,"brain, Primary Visual Cortex",Normal
+GSM119678,VCX control 2,"brain, Primary Visual Cortex",Normal
+GSM119679,VCX control 3,"brain, Primary Visual Cortex",Normal
+GSM119680,VCX control 4,"brain, Primary Visual Cortex",Normal
+GSM119681,VCX control 5,"brain, Primary Visual Cortex",Normal
+GSM119682,VCX control 6,"brain, Primary Visual Cortex",Normal
+GSM119683,VCX control 7,"brain, Primary Visual Cortex",Normal
+GSM119684,VCX control 8,"brain, Primary Visual Cortex",Normal
+GSM119685,VCX control 9,"brain, Primary Visual Cortex",Normal
+GSM119686,VCX control 10,"brain, Primary Visual Cortex",Normal
+GSM119687,VCX control 11,"brain, Primary Visual Cortex",Normal
+GSM119688,VCX control 12,"brain, Primary Visual Cortex",Normal
+GSM238763,EC_affected_1,"brain, Entorhinal Cortex",AD
+GSM238790,EC_affected_2,"brain, Entorhinal Cortex",AD
+GSM238791,EC_affected_3,"brain, Entorhinal Cortex",AD
+GSM238792,EC_affected_4,"brain, Entorhinal Cortex",AD
+GSM238793,EC_affected_5,"brain, Entorhinal Cortex",AD
+GSM238794,EC_affected_6,"brain, Entorhinal Cortex",AD
+GSM238795,EC_affected_7,"brain, Entorhinal Cortex",AD
+GSM238796,EC_affected_8,"brain, Entorhinal Cortex",AD
+GSM238797,EC_affected_9,"brain, Entorhinal Cortex",AD
+GSM238798,EC_affected_10,"brain, Entorhinal Cortex",AD
+GSM238799,HIP_affected_1,"brain, Hippocampus",AD
+GSM238800,HIP_affected_2,"brain, Hippocampus",AD
+GSM238801,HIP_affected_3,"brain, Hippocampus",AD
+GSM238802,HIP_affected_4,"brain, Hippocampus",AD
+GSM238803,HIP_affected_5,"brain, Hippocampus",AD
+GSM238804,HIP_affected_6,"brain, Hippocampus",AD
+GSM238805,HIP_affected_7,"brain, Hippocampus",AD
+GSM238806,HIP_affected_8,"brain, Hippocampus",AD
+GSM238807,HIP_affected_9,"brain, Hippocampus",AD
+GSM238808,HIP_affected_10,"brain, Hippocampus",AD
+GSM238809,MTG_affected_1,"brain, Middle temporal gyrus",AD
+GSM238810,MTG_affected_2,"brain, Middle temporal gyrus",AD
+GSM238811,MTG_affected_3,"brain, Middle temporal gyrus",AD
+GSM238812,MTG_affected_4,"brain, Middle temporal gyrus",AD
+GSM238813,MTG_affected_5,"brain, Middle temporal gyrus",AD
+GSM238815,MTG_affected_6,"brain, Middle temporal gyrus",AD
+GSM238816,MTG_affected_7,"brain, Middle temporal gyrus",AD
+GSM238817,MTG_affected_8,"brain, Middle temporal gyrus",AD
+GSM238818,MTG_affected_9,"brain, Middle temporal gyrus",AD
+GSM238819,MTG_affected_10,"brain, Middle temporal gyrus",AD
+GSM238820,MTG_affected_11,"brain, Middle temporal gyrus",AD
+GSM238821,MTG_affected_12,"brain, Middle temporal gyrus",AD
+GSM238822,MTG_affected_13,"brain, Middle temporal gyrus",AD
+GSM238823,MTG_affected_14,"brain, Middle temporal gyrus",AD
+GSM238824,MTG_affected_15,"brain, Middle temporal gyrus",AD
+GSM238825,MTG_affected_16,"brain, Middle temporal gyrus",AD
+GSM238826,PC_affected_1,"brain, Posterior cingulate cortex",AD
+GSM238827,PC_affected_2,"brain, Posterior cingulate cortex",AD
+GSM238834,PC_affected_3,"brain, Posterior cingulate cortex",AD
+GSM238835,PC_affected_4,"brain, Posterior cingulate cortex",AD
+GSM238837,PC_affected_5,"brain, Posterior cingulate cortex",AD
+GSM238838,PC_affected_6,"brain, Posterior cingulate cortex",AD
+GSM238839,PC_affected_7,"brain, Posterior cingulate cortex",AD
+GSM238840,PC_affected_8,"brain, Posterior cingulate cortex",AD
+GSM238841,PC_affected_9,"brain, Posterior cingulate cortex",AD
+GSM238842,SFG_affected_1,"brain, Superior frontal gyrus",AD
+GSM238843,SFG_affected_2,"brain, Superior frontal gyrus",AD
+GSM238844,SFG_affected_3,"brain, Superior frontal gyrus",AD
+GSM238845,SFG_affected_4,"brain, Superior frontal gyrus",AD
+GSM238846,SFG_affected_5,"brain, Superior frontal gyrus",AD
+GSM238847,SFG_affected_6,"brain, Superior frontal gyrus",AD
+GSM238848,SFG_affected_7,"brain, Superior frontal gyrus",AD
+GSM238851,SFG_affected_8,"brain, Superior frontal gyrus",AD
+GSM238854,SFG_affected_9,"brain, Superior frontal gyrus",AD
+GSM238855,SFG_affected_10,"brain, Superior frontal gyrus",AD
+GSM238856,SFG_affected_11,"brain, Superior frontal gyrus",AD
+GSM238857,SFG_affected_12,"brain, Superior frontal gyrus",AD
+GSM238858,SFG_affected_13,"brain, Superior frontal gyrus",AD
+GSM238860,SFG_affected_14,"brain, Superior frontal gyrus",AD
+GSM238861,SFG_affected_15,"brain, Superior frontal gyrus",AD
+GSM238862,SFG_affected_16,"brain, Superior frontal gyrus",AD
+GSM238863,SFG_affected_17,"brain, Superior frontal gyrus",AD
+GSM238864,SFG_affected_18,"brain, Superior frontal gyrus",AD
+GSM238865,SFG_affected_19,"brain, Superior frontal gyrus",AD
+GSM238867,SFG_affected_20,"brain, Superior frontal gyrus",AD
+GSM238868,SFG_affected_21,"brain, Superior frontal gyrus",AD
+GSM238870,SFG_affected_22,"brain, Superior frontal gyrus",AD
+GSM238871,SFG_affected_23,"brain, Superior frontal gyrus",AD
+GSM238872,VCX_affected_1,"brain, Primary visual cortex",AD
+GSM238873,VCX_affected_2,"brain, Primary visual cortex",AD
+GSM238874,VCX_affected_3,"brain, Primary visual cortex",AD
+GSM238875,VCX_affected_4,"brain, Primary visual cortex",AD
+GSM238877,VCX_affected_5,"brain, Primary visual cortex",AD
+GSM238941,VCX_affected_6,"brain, Primary visual cortex",AD
+GSM238942,VCX_affected_7,"brain, Primary visual cortex",AD
+GSM238943,VCX_affected_8,"brain, Primary visual cortex",AD
+GSM238944,VCX_affected_9,"brain, Primary visual cortex",AD
+GSM238945,VCX_affected_10,"brain, Primary visual cortex",AD
+GSM238946,VCX_affected_11,"brain, Primary visual cortex",AD
+GSM238947,VCX_affected_12,"brain, Primary visual cortex",AD
+GSM238948,VCX_affected_13,"brain, Primary visual cortex",AD
+GSM238949,VCX_affected_14,"brain, Primary visual cortex",AD
+GSM238951,VCX_affected_15,"brain, Primary visual cortex",AD
+GSM238952,VCX_affected_16,"brain, Primary visual cortex",AD
+GSM238953,VCX_affected_17,"brain, Primary visual cortex",AD
+GSM238955,VCX_affected_18,"brain, Primary visual cortex",AD
+GSM238963,VCX_affected_19,"brain, Primary visual cortex",AD
