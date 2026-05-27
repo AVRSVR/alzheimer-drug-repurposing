@@ -1,4 +1,5 @@
  🧠 Computational Drug Repurposing Pipeline for Alzheimer's Disease
+ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20417331.svg)](https://doi.org/10.5281/zenodo.20417331)
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue)]()
 [![License](https://img.shields.io/badge/License-MIT-green)]()
@@ -200,3 +201,4 @@ https://github.com/AVRSVR/alzheimer-drug-repurposing
 
  📄 License
 MIT License - Free to use with attribution
+
