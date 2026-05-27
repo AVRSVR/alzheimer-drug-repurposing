@@ -184,7 +184,7 @@ Random Forest model predictions vs actual
 
  👤 Author
 
-**Anant V Rao**  
+**Ananth Vasuki Rao**  
 Email: ananthvrao1@gmail.com  
 GitHub: [AVRSVR](https://github.com/AVRSVR)
 
